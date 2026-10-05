@@ -1,0 +1,14 @@
+/Users/anassalameh/Desktop/fullstack bootcamp/C# tasks/task01/bin/Debug/net10.0/task01
+/Users/anassalameh/Desktop/fullstack bootcamp/C# tasks/task01/bin/Debug/net10.0/task01.deps.json
+/Users/anassalameh/Desktop/fullstack bootcamp/C# tasks/task01/bin/Debug/net10.0/task01.runtimeconfig.json
+/Users/anassalameh/Desktop/fullstack bootcamp/C# tasks/task01/bin/Debug/net10.0/task01.dll
+/Users/anassalameh/Desktop/fullstack bootcamp/C# tasks/task01/bin/Debug/net10.0/task01.pdb
+/Users/anassalameh/Desktop/fullstack bootcamp/C# tasks/task01/obj/Debug/net10.0/task01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anassalameh/Desktop/fullstack bootcamp/C# tasks/task01/obj/Debug/net10.0/task01.AssemblyInfoInputs.cache
+/Users/anassalameh/Desktop/fullstack bootcamp/C# tasks/task01/obj/Debug/net10.0/task01.AssemblyInfo.cs
+/Users/anassalameh/Desktop/fullstack bootcamp/C# tasks/task01/obj/Debug/net10.0/task01.csproj.CoreCompileInputs.cache
+/Users/anassalameh/Desktop/fullstack bootcamp/C# tasks/task01/obj/Debug/net10.0/task01.dll
+/Users/anassalameh/Desktop/fullstack bootcamp/C# tasks/task01/obj/Debug/net10.0/refint/task01.dll
+/Users/anassalameh/Desktop/fullstack bootcamp/C# tasks/task01/obj/Debug/net10.0/task01.pdb
+/Users/anassalameh/Desktop/fullstack bootcamp/C# tasks/task01/obj/Debug/net10.0/task01.genruntimeconfig.cache
+/Users/anassalameh/Desktop/fullstack bootcamp/C# tasks/task01/obj/Debug/net10.0/ref/task01.dll
